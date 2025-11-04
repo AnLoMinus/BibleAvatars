@@ -1,0 +1,40 @@
+# Code Owners - BibleAvatars
+# כל קובץ/תיקייה מוגדר עם בעלים שצריך לאשר שינויים
+
+# בעלים ראשיים - כל המאגר
+* @AnLoMinus
+
+# מסמכים ראשיים
+README.md @AnLoMinus
+CONTRIBUTING.md @AnLoMinus
+CODE_OF_CONDUCT.md @AnLoMinus
+SECURITY.md @AnLoMinus
+ROADMAP.md @AnLoMinus
+
+# תיעוד
+/docs/ @AnLoMinus
+
+# קבצי קונפיגורציה
+/.github/ @AnLoMinus
+/.gitignore @AnLoMinus
+/.gitattributes @AnLoMinus
+/.editorconfig @AnLoMinus
+
+# רישיון ואבטחה
+/LICENSE @AnLoMinus
+/SECURITY.md @AnLoMinus
+
+# נתוני דמויות - דורש ביקורת זהירה
+/characters/ @AnLoMinus
+/data/ @AnLoMinus
+
+# יצירות גרפיות
+/assets/ @AnLoMinus
+/images/ @AnLoMinus
+
+# סקריפטים וכלים
+/scripts/ @AnLoMinus
+
+# בדיקות
+/tests/ @AnLoMinus
+

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "BibleAvatars - From Text to Spirit"
+version: 1.0.0
+date-released: 2025-11-04
+authors:
+  - given-names: "Moshe Leon"
+    family-names: "Yaakubov"
+    alias: "AnLoMinus"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "SparKing Universe"
+    email: "your-email@example.com"
+    website: "https://github.com/AnLoMinus"
+keywords:
+  - "Bible"
+  - "Hebrew Bible"
+  - "Tanakh"
+  - "Biblical Characters"
+  - "Character Database"
+  - "Spiritual Profiles"
+  - "Jewish Mysticism"
+  - "Kabbalah"
+  - "Religious Studies"
+license: MIT
+repository-code: "https://github.com/AnLoMinus/BibleAvatars"
+url: "https://github.com/AnLoMinus/BibleAvatars"
+abstract: "A comprehensive repository of Biblical characters with spiritual profiles, visual representations, biographical information, and maps of traits, corrections, and soul purposes. The goal is to transform all Biblical characters into a living series of spiritual Avatars, each learned, understood, experienced, and designed as a model for personal development."
+
